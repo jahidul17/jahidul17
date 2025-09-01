@@ -3,15 +3,6 @@
 Welcome to my GitHub profile!  
 I am passionate about software development and continuous learning.
 
-## 🎓 Education
-- 🎓 **BSc in Computer Science & Engineering**  
-    *Dhaka International University* (2022 - Present)  
-    *CGPA: 3.55 / 4.0*
-
-- 🎓 **Diploma in Computer Science & Technology**  
-    *Barisal Polytechnic Institute* (2017 - 2021)  
-    *CGPA: 3.71 / 4.0*
-
 ## 💡 About Me
 🌱 Dedicated to learning and professional growth
 
