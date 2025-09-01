@@ -10,6 +10,9 @@ I am passionate about software development and continuous learning.
 
 🤔 Self-inspired and motivated by challenges
 
+⏳ I enjoy identifying problems
+
+🎯 And I thrive on turning them into efficient, practical solutions.
 
 ## 🚀 Skills
 
