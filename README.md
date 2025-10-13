@@ -52,5 +52,5 @@ I am passionate about software development and continuous learning.
 - 🥇 **Champion** — Idea Contest, DIU SpringFest 2024
 - 🏅 **Ranked 1000th** — among 2600 teams, ICPC Preliminary Dhaka Site 2024
 - 🥉 **2nd Runner Up** — among 100+ teams, Project Showcasing, BUET BCS ICT Fest 2025 Preliminary
-- 🎖️ **7th Place** — among 12 teams, Project Showcasing, BUET BCS ICT Fest 2025 Finalist
-- 🌟 **Poster Presentation Finalist** — TokyoLift EEE Fest DIU 2025
+- 🎖️ **7th Place** — Among Top 12 teams, Project Showcasing, BUET BCS ICT Fest 2025 Finalist
+- 🌟 **Poster Presentation Finalist** — Top 10 teams, TokyoLift EEE Fest DIU 2025
