@@ -61,3 +61,6 @@ I am passionate about software development and continuous learning.
 - 🥉 **2nd Runner Up** — among 100+ teams, Project Showcasing, BUET BCS ICT Fest 2025 Preliminary
 - 🎖️ **7th Place** — Among Top 12 teams, Project Showcasing, BUET BCS ICT Fest 2025 Finalist
 - 🌟 **Poster Presentation Finalist** — Top 10 teams, TokyoLift EEE Fest DIU 2025
+
+
+![](https://komarev.com/ghpvc/?username=jahidul17&abbreviated=true&label=PROFILE+VIEWS)
